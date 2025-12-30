@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sab-scriptss/lua/refs/heads/main/SCRIPTS%20SAB"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/admscript-lua/sab/refs/heads/main/luaaStil"))()
 
 shared.LoaderTitle = "Loading Script May Take Few Minutes...";
 shared.LoaderKeyFrames = {
