@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/sAf6L5eLJYUuJKix/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sab-scriptss/lua/refs/heads/main/SCRIPTS%20SAB"))()
 
 shared.LoaderTitle = "Loading Script May Take Few Minutes...";
 shared.LoaderKeyFrames = {
